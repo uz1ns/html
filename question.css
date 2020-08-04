@@ -1,0 +1,22 @@
+.day{
+  margin-top: 50px;
+  text-align: center;
+}
+
+em{
+  color: red;
+  font-weight: bold;
+}
+.hey{
+  text-align: left;
+  margin-left: 35px;
+}
+img{
+  text-align: center;
+}
+.mygf{
+  text-align: center;
+  color: purple;
+  font-family: "Times New Roman";
+  font-size: 100px
+}
